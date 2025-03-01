@@ -1,0 +1,28 @@
+h1, h2 {
+    font-family: "Verdana", sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: darkred;
+    background-color: pink;
+}
+
+body {
+    font-family: "Georgia", serif;
+}
+
+footer {
+    text-align: center;
+    background-color: pink;
+}
+
+footer a {
+    font-family: sans-serif;
+    font-size: 26px;
+}
+
+.constrained {
+    width: 300px;
+    height: auto;
+}
