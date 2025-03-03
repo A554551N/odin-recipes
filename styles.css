@@ -11,6 +11,10 @@ h1 {
     padding: 8px;
 }
 
+h2 {
+    text-align: center;
+}
+
 body {
     font-family: "Georgia", serif;
     background-color: darkgoldenrod;
